@@ -1,2 +1,2 @@
 # PythonExamples
-Giriş ve orta Seviye Python örnekleri
+#Giriş ve orta Seviye Python örnekleri
